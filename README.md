@@ -35,6 +35,5 @@ This project showcases how TensorFlow can be used to solve simple regression pro
 It aids in understanding the transition from traditional statistical models to machine learning frameworks like TensorFlow, allowing for easier scalability and optimization when moving to more complex neural networks in the future.
 
 #  Install Packages from requirements.txt
- ## to get all require packages pip install -r requirements.txt![image](https://github.com/user-attachments/assets/7dc6d577-3e16-4e04-9260-dfb78afef0a6)
  ## pip install -r requirements.txt
 
