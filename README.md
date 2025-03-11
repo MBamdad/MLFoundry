@@ -34,6 +34,17 @@ Scientific and Real-World Problems Solved:
 This project showcases how TensorFlow can be used to solve simple regression problems, providing an accessible introduction to machine learning. 
 It aids in understanding the transition from traditional statistical models to machine learning frameworks like TensorFlow, allowing for easier scalability and optimization when moving to more complex neural networks in the future.
 
-#  Install Packages from requirements.txt
- ## pip install -r requirements.txt
+#  Install Packages from requirements.txt:
+ - pip install -r requirements.txt
+ - 
+## Installation
 
+To get started with the MLFoundry project, follow these steps:
+### Using Conda
+1. Create a new Conda environment: 
+    conda create --name MLFoundry python=3.8
+2. Activate the environment: 
+    conda activate MLFoundry
+3. Install dependencies:
+    conda install --file requirements.txt
+* Make sure to install the appropriate versions of Python (e.g., Python 3.8 or 3.9).
