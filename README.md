@@ -36,7 +36,7 @@ It aids in understanding the transition from traditional statistical models to m
 
 #  Install Packages from requirements.txt:
  - pip install -r requirements.txt
- - 
+
 ## Installation
 
 To get started with the MLFoundry project, follow these steps:
